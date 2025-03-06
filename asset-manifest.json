@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lottie-analyzer/static/css/main.a47c815b.css",
+    "main.js": "/lottie-analyzer/static/js/main.5557b178.js",
+    "static/js/453.79b29ab2.chunk.js": "/lottie-analyzer/static/js/453.79b29ab2.chunk.js",
+    "index.html": "/lottie-analyzer/index.html",
+    "main.a47c815b.css.map": "/lottie-analyzer/static/css/main.a47c815b.css.map",
+    "main.5557b178.js.map": "/lottie-analyzer/static/js/main.5557b178.js.map",
+    "453.79b29ab2.chunk.js.map": "/lottie-analyzer/static/js/453.79b29ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47c815b.css",
+    "static/js/main.5557b178.js"
+  ]
+}
